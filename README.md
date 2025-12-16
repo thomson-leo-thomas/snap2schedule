@@ -2,11 +2,72 @@
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-# Run and deploy your AI Studio app
+# 🧭 Smart Schedule Assistant
 
-This contains everything you need to run your app locally.
+>A smart scheduling application designed to simplify task management and help you keep up with your daily commitments.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1iPO9Kcw74H84rd6nn_fpNcWcW8_JehFi
+
+
+## 📌 Overview
+
+>It’s easy to forget tasks—messages from your boss, parents, or partner might ask you to do something at a specific time or place. This application solves that problem by automatically creating reminders and schedules from message screenshots.
+
+
+## 🤖 How It Works
+
+Our platform uses AI to analyse screenshots of messages, identify tasks, and extract details such as:
+
+- Dates & times
+
+- Locations
+
+- Deadlines
+
+- Action items
+
+>It then creates conflict-free reminders and schedules, notifying you when needed.
+
+
+## 🛠 Initial Vision
+
+Originally, the system was designed to:
+
+- Read notifications directly through Android notification channels
+
+- Use AI models to classify and understand the content
+
+- Automatically set time-based and location-based reminders
+
+- Infer missing information from message context
+
+- Use geofencing to trigger location-specific reminders
+
+>This would create a dynamic, intelligent scheduling assistant that works seamlessly in the background.
+
+
+## 🚧 Current Implementation
+
+Due to event constraints, we built a streamlined spin-off version:
+
+- ✅ A Web App that Converts Screenshots into Schedules
+
+- Users can upload screenshots, and the system:
+
+    - Performs AI-based text extraction and interpretation
+
+    - Identifies dates, times, and tasks
+
+    - Generates a clean schedule entry—no manual input needed
+
+>This demonstrates the core idea of automated, AI-powered schedule management.
+
+
+## 🎯 Goal
+
+To evolve into a fully automated scheduling assistant that integrates deeply with mobile devices, streamlines reminders, and removes the burden of manual planning
+
+
+---
 
 ## Run Locally
 
