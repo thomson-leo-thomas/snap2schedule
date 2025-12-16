@@ -61,13 +61,13 @@ Due to event constraints, we built a streamlined spin-off version:
 
 >This demonstrates the core idea of automated, AI-powered schedule management.
 
-
+<img width="1200" height="475" alt="GHBanner" src="Screenshot 2025-12-16 135353.png" />
 ## 🎯 Goal
 
 To evolve into a fully automated scheduling assistant that integrates deeply with mobile devices, streamlines reminders, and removes the burden of manual planning
 
 ## Try it:
-> [CLick here] (https://snap2schedule.onrender.com)
+>[CLick here](https://snap2schedule.onrender.com)
 
 ---
 
