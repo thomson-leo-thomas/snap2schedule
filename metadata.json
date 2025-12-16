@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Snap2Schedule",
+  "description": "AI-powered event extraction and scheduling assistant using Gemini models to turn screenshots and notes into organized calendar events and tasks.",
+  "requestFramePermissions": []
+}
