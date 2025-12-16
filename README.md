@@ -86,5 +86,5 @@ To evolve into a fully automated scheduling assistant that integrates deeply wit
 
 Crafted by two collaborators, from idea to execution:
 
- >[Thomson Leo Thomas](https://github.com/thomson-leo-thomas)
+ >[Thomson Leo Thomas](https://github.com/thomson-leo-thomas)<br>
  >[Jose James](https://github.com/Jomezh)
