@@ -82,7 +82,7 @@ To evolve into a fully automated scheduling assistant that integrates deeply wit
 3. Run the app:
    `npm run dev`
 
-## 👥 Team
+## 👥 Team - FutureForge
 
 Crafted by two collaborators, from idea to execution:
 
