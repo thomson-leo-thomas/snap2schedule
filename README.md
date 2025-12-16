@@ -81,3 +81,10 @@ To evolve into a fully automated scheduling assistant that integrates deeply wit
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+## 👥 Team
+
+Crafted by two collaborators, from idea to execution:
+
+- [Thomson Leo Thomas](https://github.com/thomson-leo-thomas)
+- [Jose James](https://github.com/Jomezh)
