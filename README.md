@@ -66,6 +66,8 @@ Due to event constraints, we built a streamlined spin-off version:
 
 To evolve into a fully automated scheduling assistant that integrates deeply with mobile devices, streamlines reminders, and removes the burden of manual planning
 
+## Try it:
+> [CLick here] (https://snap2schedule.onrender.com)
 
 ---
 
